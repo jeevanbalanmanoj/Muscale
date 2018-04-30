@@ -1,0 +1,5 @@
+{
+	"fromScale": "F",
+	"toScale": "D",
+	"song": "F C F G A A# A G\nC D E F G A A# A G F\nF C F G A A# A G\nC D E F G A A# A G F\n\nE A C E D\nE A C E D\nE A C E D\nC C A C A A# G A# C\n\nF C F G A A# A G\nC D E F G A A# A G F"
+}
